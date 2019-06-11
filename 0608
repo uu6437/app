@@ -4,10 +4,11 @@
         "KEY_ARRAY_KEYS":[
           	"http://appid.201888888888.com/getAppConfig.php?appid=iostestupdate",
             "ShowWeb",
-            "1",
+            "2",
             "Url",
             "url",
-            "key_game_app"
+            "key_game_app",
+            "2"
         ]
     }
 }
